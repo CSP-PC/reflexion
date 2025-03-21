@@ -135,3 +135,10 @@ http://localhost:8000/docs
 - Immediate medical consultation
 - Daily monitoring
 - Caregiver support
+
+reflexion/
+├── data/
+│   ├── dementia_speech/
+│   │   └── dementia_dataset.csv
+│   └── facial_expressions/
+│       └── ck_plus/
