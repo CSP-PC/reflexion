@@ -1,0 +1,25 @@
+# Dataset paths
+speech_data_path: "data/dementia_speech/dementia_dataset.csv"
+facial_data_path: "data/facial_expressions/ck_plus"
+
+# Training parameters
+batch_size: 32
+test_size: 0.2
+random_state: 42
+learning_rate: 0.001
+num_epochs: 50
+hidden_size: 256
+
+# Model saving
+model_save_path: "models/saved"
+
+# Experiment tracking
+wandb_project: "reflexion-cognitive-monitoring"
+
+# IRIS database configuration
+iris_config:
+  host: "localhost"
+  port: 1972
+  namespace: "USER"
+  username: "_SYSTEM"
+  password: "SYS" 
