@@ -1,5 +1,4 @@
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/1b9dcb1e-2fc8-462b-8a81-89e185244dd6" /># Reflexion
-
+#Reflexion
 
 **Reflexion** is an AI-powered smart mirror system designed to detect early signs of cognitive decline and dementia in elderly individuals through continuous monitoring of speech patterns, facial expressions, and interaction patterns. The system provides personalized risk assessments and recommendations for users, caregivers, and healthcare providers.
 
