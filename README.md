@@ -29,8 +29,8 @@ Using a LLM in the background provided with existing data from dementia datasets
 # Datasets
 Dementia, being a commonly investigated topic, has several datasets that can be leveraged for research (though not all are accessible as of this time due to membership requirements and other similar constraints). 
 
-https://www.kaggle.com/datasets/shashwatwork/dementia-prediction-dataset/data - Dementia detection based on speech
-https://dementia.talkbank.org/ - DementiaBank, a global resource on dementia
-https://www.i2lab.info/resources - i2Lab by Keio University, including several resources such as detection of depression and dementia from vocal inflections and facial expressions
+- https://www.kaggle.com/datasets/shashwatwork/dementia-prediction-dataset/data - Dementia detection based on speech
+- https://dementia.talkbank.org/ - DementiaBank, a global resource on dementia
+- https://www.i2lab.info/resources - i2Lab by Keio University, including several resources such as detection of depression and dementia from vocal inflections and facial expressions
 
 
