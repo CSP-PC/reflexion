@@ -20,7 +20,7 @@ scikit-learn
 fastapi
 uvicorn
 python-multipart
-intersystems-iris-native
+intersystems-irispython
 face-recognition
 speechrecognition
 transformers
